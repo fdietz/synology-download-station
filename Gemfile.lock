@@ -1,0 +1,22 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    activesupport (3.0.3)
+    i18n (0.5.0)
+    json_pure (1.4.6)
+    mocha (0.9.10)
+      rake
+    nestful (0.0.6)
+      activesupport (>= 3.0.0.beta)
+    rake (0.8.7)
+    test-unit (2.1.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  i18n
+  json_pure
+  mocha
+  nestful
+  test-unit
